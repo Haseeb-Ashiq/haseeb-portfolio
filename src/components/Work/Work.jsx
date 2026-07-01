@@ -20,7 +20,7 @@ const Work = () => {
       {/* Section Title */}
       <div className="text-center mb-16">
         <h2 className="text-4xl font-bold text-white">PROJECTS</h2>
-        <div className="w-32 h-1 bg-purple-500 mx-auto mt-4"></div>
+        <div className="w-32 h-1 bg-[#f97316] mx-auto mt-4"></div>
         <p className="text-gray-400 mt-4 text-lg font-semibold">
           A showcase of the projects I have worked on, highlighting my skills
           and experience in various technologies
@@ -53,7 +53,7 @@ const Work = () => {
                 {project.tags.map((tag, index) => (
                   <span
                     key={index}
-                    className="inline-block bg-[#251f38] text-xs font-semibold text-purple-500 rounded-full px-2 py-1 mr-2 mb-2"
+                    className="inline-block bg-gray-700 text-xs font-semibold text-[#f97316] rounded-full px-2 py-1 mr-2 mb-2"
                   >
                     {tag}
                   </span>
