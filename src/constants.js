@@ -57,7 +57,7 @@ import removebgLogo from './assets/work_logo/remove_bg.png';
 
 export const SkillsInfo = [
   {
-    title: 'Frontend',
+    title: 'Frontend-with',
     skills: [
       { name: 'HTML', logo: htmlLogo },
       { name: 'CSS', logo: cssLogo },
