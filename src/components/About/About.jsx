@@ -18,7 +18,7 @@ const About = () => {
             Hi, I am
           </h1>
           {/* Name */}
-          <h2 className="text-3xl sm:text-5xl md:text-5xl font-bold text-red-500 mb-4 leading-tight">
+          <h2 className="text-3xl sm:text-5xl md:text-5xl font-bold text-orange-500 mb-4 leading-tight">
             Muhammad Haseeb Ahmad
           </h2>
           {/* Skills Heading with Typing Effect */}
